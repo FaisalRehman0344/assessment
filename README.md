@@ -9,6 +9,7 @@ This project is an assessment task and serves as a starting point for a React-ba
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Project Structure](#project-structure)
+- [Running Example](#running-example)
 
 ## Prerequisites
 
@@ -63,7 +64,7 @@ The project directory is organized as follows:
       - `screens/`: All UI Screens and there stylings are present in screens directory.
 
       - `protectors/`: All route protectors (Authentication) are present in protectors directory.
-      
+
       - `enums/`: All Constants are present in enums directory.
 
   - `App.js`: This is the main application component where you can structure the overall layout and routing of your application.
@@ -71,3 +72,7 @@ The project directory is organized as follows:
   - `index.js`: This is the entry point for the React application. It renders the root component into the HTML DOM.
 
 - `package.json`: This file lists the project dependencies and defines various scripts for managing the project.
+
+## Running Example
+
+`https://assessment-task-87021.web.app/`
