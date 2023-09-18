@@ -56,6 +56,16 @@ The project directory is organized as follows:
 
   - `components/`: All the screens, controllers and models are present in this directory.
 
+      - `controllers/`: All bussiness login related files are present in controllers.
+
+      - `models/`: All data models i.e data classes are present in models.
+
+      - `screens/`: All UI Screens and there stylings are present in screens directory.
+
+      - `protectors/`: All route protectors (Authentication) are present in protectors directory.
+      
+      - `enums/`: All Constants are present in enums directory.
+
   - `App.js`: This is the main application component where you can structure the overall layout and routing of your application.
 
   - `index.js`: This is the entry point for the React application. It renders the root component into the HTML DOM.
