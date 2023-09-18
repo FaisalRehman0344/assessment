@@ -55,17 +55,17 @@ The project directory is organized as follows:
 
 - `src/`: Inside this directory, you'll find the source code of the React application:
 
-  - `components/`: All the screens, controllers and models are present in this directory.
+  - `components/`: All the screens, controllers, and models are present in this directory.
 
-      - `controllers/`: All bussiness login related files are present in controllers.
+      - `controllers/`: All business login-related files are present in controllers.
 
-      - `models/`: All data models i.e data classes are present in models.
+      - `models/`: All data models i.e. data classes are present in models.
 
-      - `screens/`: All UI Screens and there stylings are present in screens directory.
+      - `screens/`: All UI Screens and their stylings are present in the screens directory.
 
-      - `protectors/`: All route protectors (Authentication) are present in protectors directory.
+      - `protectors/`: All route protectors (Authentication) are present in the protectors directory.
 
-      - `enums/`: All Constants are present in enums directory.
+      - `enums/`: All Constants are present in the enums directory.
 
   - `App.js`: This is the main application component where you can structure the overall layout and routing of your application.
 
@@ -75,4 +75,4 @@ The project directory is organized as follows:
 
 ## Running Example
 
-`https://assessment-task-87021.web.app/`
+https://assessment-task-87021.web.app/
